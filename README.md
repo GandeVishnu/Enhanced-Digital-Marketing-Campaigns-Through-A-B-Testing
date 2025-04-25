@@ -9,28 +9,62 @@
 
 ## 📊 Project Overview
 
-This project focuses on evaluating and improving digital marketing performance using **A/B Testing** methodology.
+This project focuses on enhancing digital marketing campaign performance using an **A/B Testing approach**. The goal was to evaluate the effectiveness of two separate campaigns – a **Control Campaign** and a **Test Campaign** – based on key performance indicators (KPIs) including:
 
-The primary goal was to compare the **Control Group** and the **Test Group** across key performance metrics such as:
-
-- **Cost per Purchase**
-- **Reach**
-- **Return on Investment (ROI)**
+- 📌 **Reach**
+- 💵 **Spend**
+- 🎯 **Website Clicks**
+- 🛒 **Add to Cart**
+- 📦 **Purchases**
+- 📊 **Cost per Purchase**
+- 💡 **Return on Investment (ROI)**
 
 ---
 
-## ✅ Outcome
+## 🔍 KPI Comparison Table
 
-- The **Control Group** proved to be **more efficient** in terms of:
-  - Lower **Cost per Purchase**
-  - Higher **Reach**
-- This indicates that the **Control Group outperformed the Test Group** in terms of **ROI** and overall campaign effectiveness.
+| **Metric**                | **Control Campaign** | **Test Campaign** | **Better Performer**         |
+|---------------------------|----------------------|-------------------|------------------------------|
+| Searches                  | 64K                  | 73K               | Test Campaign                |
+| Impressions               | 3M                   | 2M                | Control Campaign             |
+| Reach                     | 3M                   | 2M                | Control Campaign             |
+| Spend (USD)              | $67K                 | $77K              | Control Campaign (lower)     |
+| Purchases                 | 15K                  | 16K               | Test Campaign (slightly)     |
+| Website Clicks            | 154K                 | 181K              | Test Campaign                |
+| Add to Cart               | 38K                  | 26K               | Control Campaign             |
+| View Content              | 56K                  | 56K               | Equal                        |
+| **Cost per Purchase**     | **$4.47**            | **$4.81**         | **Control Campaign**         |
+
+---
+
+📌 The primary goal was to compare the **Control Group** and the **Test Group** across key performance metrics such as:
+
+- 💰 **Cost per Purchase**
+- 📣 **Reach**
+- 📈 **Return on Investment (ROI)**
+
+---
+
+## ✅ Final Outcome
+
+- The **Control Campaign** was found to be more **cost-effective** and delivered **higher reach**.
+- Despite more clicks and purchases in the **Test Campaign**, the **Control Campaign had a lower cost per purchase**, resulting in **better ROI**.
+- Thus, the **Control Campaign** is the **recommended choice** for future digital marketing strategies based on data-driven insights.
 
 ---
 
 ## 📌 Key Takeaways
 
-- A/B testing helps in data-driven decision-making for marketing strategies.
-- Visualization using **Power BI** makes insights clear and actionable.
-- Python enables detailed statistical analysis to validate hypotheses.
+- 📊 A/B Testing is a powerful method for optimizing marketing performance.
+- 📈 Power BI dashboards make complex data insights visually intuitive.
+- 🧠 Python allows for deep analysis and validation of campaign outcomes.
+- ✅ Informed decisions based on metrics like **ROI** and **cost per conversion** can greatly improve marketing success.
 
+---
+
+## 🚀 In Brief
+
+This project clearly shows how **data-driven A/B testing** combined with powerful tools like Python and Power BI can reveal which campaign strategy works best.  
+It empowers marketers to invest in what actually delivers results.
+
+---
