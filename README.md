@@ -68,3 +68,11 @@ This project clearly shows how **data-driven A/B testing** combined with powerfu
 It empowers marketers to invest in what actually delivers results.
 
 ---
+
+
+## 📷 Dashboard Preview
+
+
+![Dashboard Screenshot](ecomm-sales-dashboard.png)
+
+---
