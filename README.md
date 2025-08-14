@@ -73,6 +73,6 @@ It empowers marketers to invest in what actually delivers results.
 ## 📷 Dashboard Preview
 
 
-![Dashboard Screenshot](ecomm-sales-dashboard.png)
+![Dashboard Screenshot](AB_testing-Dashboard.png)
 
 ---
