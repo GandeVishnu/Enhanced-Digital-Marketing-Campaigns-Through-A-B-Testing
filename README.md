@@ -33,7 +33,7 @@ This project focuses on enhancing digital marketing campaign performance using a
 | Website Clicks            | 154K                 | 181K              | Test Campaign                |
 | Add to Cart               | 38K                  | 26K               | Control Campaign             |
 | View Content              | 56K                  | 56K               | Equal                        |
-| **Cost per Purchase**     | **$4.47**            | **$4.81**         | **Control Campaign**         |
+| **Cost per Purchase**     | **$4.41**            | **$4.92**         | **Control Campaign**         |
 
 ---
 
