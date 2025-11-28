@@ -38,9 +38,8 @@ This project focuses on enhancing digital marketing campaign performance using a
 ---
 ## 💰 Cost per Purchase (CPP) Calculation
 
-\[
-\text{CPP} = \frac{\text{Campaign Spend}}{\text{Purchases}}
-\]
+`CPP = Campaign Spend / Purchases`
+
 
 - **Control Campaign**: $67,000 ÷ 15,000 ≈ $4.41 per purchase  
 - **Test Campaign**: $77,000 ÷ 16,000 ≈ $4.92 per purchase  
@@ -49,30 +48,22 @@ This project focuses on enhancing digital marketing campaign performance using a
 
 ---
 
-## 💸 ROI Calculation
+# 💸 ROI Calculation
 
-Assume **average profit per purchase = $6** for both campaigns.
+**Assumption:** Average profit per purchase = $6  
 
-**Revenue Calculation**:
+**Step 1: Total Profit**  
+- Control Campaign: 15,000 × 6 = $90,000  
+- Test Campaign: 16,000 × 6 = $96,000  
 
-- **Control Campaign Revenue**:  
-  15,000 × (4.41 + 6) = $156,150  
+**Step 2: ROI (%)**  
+  `ROI (%) = (Total Profit ÷ Campaign Spend) × 100`
 
-- **Test Campaign Revenue**:  
-  16,000 × (4.92 + 6) = $174,720  
 
-**ROI Calculation**:  
+- Control Campaign ROI: 90,000 ÷ 67,000 × 100 ≈ **134.3%**  
+- Test Campaign ROI: 96,000 ÷ 77,000 × 100 ≈ **124.7%**  
 
-ROI (%) = (Revenue − Spend) ÷ Spend × 100  
-
-- **Control Campaign ROI**:  
-  (156,150 − 67,000) ÷ 67,000 × 100 ≈ 133.2%  
-
-- **Test Campaign ROI**:  
-  (174,720 − 77,000) ÷ 77,000 × 100 ≈ 126.8%  
-
-**Result:**  
-The **Control Campaign** is more cost-efficient and delivers higher ROI.
+**Result:** Control Campaign is more cost-efficient and delivers higher ROI.
 
 ---
 
