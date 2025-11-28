@@ -36,6 +36,45 @@ This project focuses on enhancing digital marketing campaign performance using a
 | **Cost per Purchase**     | **$4.41**            | **$4.92**         | **Control Campaign**         |
 
 ---
+## 💰 Cost per Purchase (CPP) Calculation
+
+\[
+\text{CPP} = \frac{\text{Campaign Spend}}{\text{Purchases}}
+\]
+
+- **Control Campaign**: $67,000 ÷ 15,000 ≈ $4.41 per purchase  
+- **Test Campaign**: $77,000 ÷ 16,000 ≈ $4.92 per purchase  
+
+> Lower CPP indicates more cost-efficient campaigns.
+
+---
+
+## 💸 ROI Calculation
+
+Assume **average profit per purchase = $6** for both campaigns.
+
+**Revenue Calculation**:
+
+- **Control Campaign Revenue**:  
+  15,000 × (4.41 + 6) = $156,150  
+
+- **Test Campaign Revenue**:  
+  16,000 × (4.92 + 6) = $174,720  
+
+**ROI Calculation**:  
+
+ROI (%) = (Revenue − Spend) ÷ Spend × 100  
+
+- **Control Campaign ROI**:  
+  (156,150 − 67,000) ÷ 67,000 × 100 ≈ 133.2%  
+
+- **Test Campaign ROI**:  
+  (174,720 − 77,000) ÷ 77,000 × 100 ≈ 126.8%  
+
+**Result:**  
+The **Control Campaign** is more cost-efficient and delivers higher ROI.
+
+---
 
 📌 The primary goal was to compare the **Control Group** and the **Test Group** across key performance metrics such as:
 
